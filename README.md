@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BakuArimoto
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Mathmatics(Statistics, Linear Algebra, Calculus) and Python.
+- 🌱 I’m currently learning Mathmatics(Statistics, Linear Algebra, Calculus) and Python for understnading basic concept for ML.
 - 💞️ I’m looking to collaborate on ML Engineer
 - 📫 How to reach me Baku.Arimoto@gmail.com
 
